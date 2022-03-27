@@ -1,0 +1,13 @@
+[
+    {
+        "username": "s",
+        "email": "s@gmail.com",
+        "pass": "z",
+        "dob": "2003-02-26",
+        "gender": "Male",
+        "language": [
+            "English"
+        ],
+        "nid": "6565565655"
+    }
+]

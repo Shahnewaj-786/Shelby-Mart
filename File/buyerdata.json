@@ -1,0 +1,24 @@
+[
+    {
+        "username": "b",
+        "email": "a@gmail.com",
+        "pass": "s",
+        "dob": "2003-02-24",
+        "gender": "Male",
+        "language": [
+            "English"
+        ],
+        "nid": "6565565622"
+    },
+    {
+        "username": "shahnewaj",
+        "email": "b@gmail.com",
+        "pass": "b",
+        "dob": "2003-02-27",
+        "gender": "Male",
+        "language": [
+            "English"
+        ],
+        "nid": "6565565622"
+    }
+]
