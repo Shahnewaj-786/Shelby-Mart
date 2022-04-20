@@ -1,0 +1,20 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    font-family: serif;
+}
+
+
+
+.employee_data{
+    width: 450px;
+    margin: 100px auto 0px;
+}
+
+
+
+
+.change{
+    width: 50px;
+    margin: 100px auto 0px;
+}

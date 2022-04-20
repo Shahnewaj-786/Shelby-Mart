@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+}
+
+.seller_login{
+    width: 450px;
+    margin: 100px auto 0px;
+}
+
+.seller_login input{
+    display: block;
+    border: 1px solid #333;
+    padding: 5px;
+    margin: 5px 0px;
+    width: 100%;
+    color: #000;
+    box-sizing: border-box;
+}
+
+/*
+.seller_login button {
+    transition-duration: 0.4s;
+  }
+  
+ */
+
+
+

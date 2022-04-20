@@ -2,12 +2,13 @@
 <html>
 <head>
     <title>Admin Login</title>
+   
 </head>
 
-<body>
-    <h2>Login As Admin</h2> <hr> <br>
+<body align = "center">
+    <h2 align = "center" >Login As Admin</h2> <hr> <br>
     <form action="" method="post">
-    <table>
+    <table align = "center">
         <tr>
             <td>
                 Username: 
